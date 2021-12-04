@@ -1,0 +1,40 @@
+{
+ "name": "webhook.js",
+ "version": "0.0.0",
+ "description": "Send content directly to Discord Channel via link",
+ "main": "index.js",
+ "scripts": {
+  "start": "node index.js",
+  "format": "prettier --write . --ignore-unknown",
+  "format:check": "prettier --check .",
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/IgorKowalczyk/webhook.js.git"
+ },
+ "keywords": [
+  "node.js",
+  "discord.js",
+  "discord",
+  "webhook"
+ ],
+ "author": "Igor Kowalczyk",
+ "license": "MIT",
+ "bugs": {
+  "url": "https://github.com/IgorKowalczyk/webhook.js/issues"
+ },
+ "devDependencies": {
+  "prettier": "^2.4.1"
+ },
+ "homepage": "https://github.com/IgorKowalczyk/webhook.js#readme",
+ "dependencies": {
+  "body-parser": "^1.19.0",
+  "discord.js": "^13.3.1",
+  "dotenv": "^10.0.0",
+  "express": "^4.17.1",
+  "express-rate-limit": "^5.5.0",
+  "node-fetch": "^2.6.1",
+  "path": "^0.12.7"
+ }
+}
