@@ -2,7 +2,7 @@
 
 # Webhook.js
 
-> Send content directly to Discord Channel via link 
+> 👾 Send content directly to Discord Channel via link 
 <br>
 
 ---
