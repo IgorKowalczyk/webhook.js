@@ -7,10 +7,10 @@
 
 ---
 
-[![Discord](https://img.shields.io/discord/666599184844980224?color=%2334D058&logo=discord&label=Discord&style=flat-square&logoColor=fff)](https://majobot.igorkowalczyk.repl.co/server)
-[![Node.js](https://img.shields.io/github/workflow/status/igorkowalczyk/webhook.js/Node.js/master?style=flat-square&label=Node.js&logo=github&color=%2334D058)](https://majobot.igorkowalczyk.repl.co/)
+[![Discord](https://img.shields.io/discord/666599184844980224?color=%2334D058&logo=discord&label=Discord&style=flat-square&logoColor=fff)](https://igorkowalczyk.github.io/)
+[![Node.js](https://img.shields.io/github/workflow/status/igorkowalczyk/webhook.js/Node.js/master?style=flat-square&label=Node.js&logo=github&color=%2334D058)](https://igorkowalczyk.github.io/)
 [![GitHub License](https://img.shields.io/github/license/igorkowalczyk/webhook.js?style=flat-square&logo=github&label=License&color=%2334D058)](https://github.com/IgorKowalczyk/webhook.js)
-[![Version](https://img.shields.io/github/package-json/v/igorkowalczyk/webhook.js?style=flat-square&logo=github&label=Version&color=%2334D058)](https://majobot.igorkowalczyk.repl.co/server)
+[![Version](https://img.shields.io/github/package-json/v/igorkowalczyk/webhook.js?style=flat-square&logo=github&label=Version&color=%2334D058)](https://igorkowalczyk.github.io/r/discord-server)
 
 ## Endpoints
 
